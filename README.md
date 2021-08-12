@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @automata172
-- 👀 I’m interested in money
 - 🌱 I’m currently learning reverse engineering
 
 <!---
